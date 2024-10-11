@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rakshit-malik-2132a5288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit-malik-2132a5288" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakshit-malik-2132a5288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshit-malik-2132a5288" height="30" width="40" /></a>
 <a href="https://instagram.com/rakshit__pvtt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakshit__pvtt7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vibe with maliks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vibe with maliks" height="30" width="40" /></a>
 </p>
