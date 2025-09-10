@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rakshit.malik136@gmail.com**
 
-- 📄 Know about my experiences [https://rakshit-malik-resume.tiiny.site](https://rakshit-malik-resume.tiiny.site) 
+- 📄 Know about my experiences [https://rakshit-malik-resume.tiiny.site](https://rakshit-malik-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
