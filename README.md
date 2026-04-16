@@ -1,4 +1,4 @@
-# 💫 About Me:
+## About Me:
 Computer Science undergraduate (2026) with hands-on experience in DevOps and cloud infrastructure. Skilled in building CI/CD pipelines, containerization, and infrastructure automation using Docker, Jenkins, and AWS. Demonstrated ability to reduce deployment time and automate workflows. Actively seeking DevOps/SRE internship opportunities.
 
 
